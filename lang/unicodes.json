@@ -10,5 +10,23 @@
         "start": "0590",
         "end": "05FF",
         "font": "GoNotoKurrent"
+    },
+    {
+        "name": "No-break space",
+        "start": "00A0",
+        "end": "00A0",
+        "font": "GoNotoKurrent"
+    },
+    {
+        "name": "Thin space",
+        "start": "2009",
+        "end": "2009",
+        "font": "GoNotoKurrent"
+    },
+    {
+        "name": "Narrow no-break space",
+        "start": "202F",
+        "end": "202F",
+        "font": "GoNotoKurrent"
     }
 ]

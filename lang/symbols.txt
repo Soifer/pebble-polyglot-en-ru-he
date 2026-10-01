@@ -1,0 +1,8 @@
+#font: GoNotoKurrent
+# Selected currencies (ruble, euro, shekel, hryvnia, tenge, lari, dram,
+# pound, yen/yuan, cent, rupee, won, lira, bitcoin).
+₽€₪₴₸₾֏£¥¢₹₩₺₿
+# Number sign, temperature, arithmetic, minus and per-mille.
+№°±×÷−‰
+# Notification punctuation. Ellipsis is also supplied by the builder.
+…«»“”‘’–—•·
