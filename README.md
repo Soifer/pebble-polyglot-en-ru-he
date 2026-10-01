@@ -27,7 +27,7 @@ and emoji are outside this change; the source font lacks several such symbols.
 
 Binary verification checks all 18 font variants, pack/resource CRCs, unchanged
 metadata, and byte-identical glyphs for every character in the original pack.
-The new pack has **not yet been tested on a physical Pebble Time 2**.
+The user reports testing the new pack on a physical Pebble Time 2.
 
 ![Actual packed glyphs enlarged 3x](docs/symbol-preview.png)
 
